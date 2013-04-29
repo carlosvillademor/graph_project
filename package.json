@@ -1,0 +1,27 @@
+{
+	"name": "graph_project",
+	"version": "0.1.0",
+	"author": "Carlos Fernandez Garcia <carlos.villademor@gmail.com",
+	"description": "Project to play around with Facebook API and Neo4J graph database",
+	"scripts": {
+		"start": "node js/server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/carlosvillademor/graph_project"
+	},
+	"keywords": [
+		"Neo4J",
+		"graph",
+		"Facebook"
+	],
+	"dependencies": {
+		"express": ""
+	},
+	"devDependencies": {
+	},
+	"license": "MIT",
+	"engine": {
+		"node": ">=0.8.14"
+	}
+}
