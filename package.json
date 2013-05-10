@@ -16,7 +16,9 @@
 		"Facebook"
 	],
 	"dependencies": {
-		"express": ""
+		"express": "",
+		"mu2": "",
+		"util": ""
 	},
 	"devDependencies": {
 	},
